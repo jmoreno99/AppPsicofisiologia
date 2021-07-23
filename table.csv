@@ -1,5 +1,2 @@
 ID;nombre;f_nacimiento;sexo;antecedentes;peso;estatura;escolaridad
 001;Paciente 1;1/01/1998;Masculino;;75.0;1.8;Universidad
-002;Paciente 2;1/01/1996;Masculino;Ninguno;77.8;1.7;Universidad
-003;Paciente 3;1/01/2000;Masculino;Ninguno;60.0;1.6;Universitario
-asdasdasd;;1/01/2000;;;;;
